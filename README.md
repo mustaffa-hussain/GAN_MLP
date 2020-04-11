@@ -5,8 +5,9 @@ The name very much explains it up. GANs are a class of generative models. GANs w
 
 <img src="diagram.jpg" alt="diagram" height="350" width="600">
 This is the general outline of a GAN Architecture.
-<br/>
-<br/>
+<br\>
+
+
 GANS are pitched against other generative models such as: 
 1. Probabaility  Distribution 
 2. Pixel CNN
