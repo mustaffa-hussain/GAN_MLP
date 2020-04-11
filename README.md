@@ -3,7 +3,7 @@ This repository contains my experiments with the Generative Adversarial setting 
 <br/>
 The name very much explains it up. GANs are a class of generative models. GANs were introduced to the world by Ian J. Goodfellow and group of researchers at university of Montreal in 2014. Their paper titled 'Generative Adversarial Nets' - https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf is seen as one of the millenial papers in deep learing. 
 
-<img src="diagram.jpg" alt="diagram" height="350" width="420">
+<img src="diagram.jpg" alt="diagram" height="350" width="600">
 
                                     
 
